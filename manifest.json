@@ -1,13 +1,10 @@
 {
   "name": "menu-potato-old",
   "vendor": "vtex",
-  "version": "2.21.2",
+  "version": "2.23.0",
   "title": "VTEX Menu",
-  "description": "A Menu Component",
+  "description": "A Menu Component EXAMPLE",
   "mustUpdateAt": "2019-04-03",
-  "scripts": {
-    "prereleasy": "bash lint.sh"
-  },
   "builders": {
     "react": "3.x",
     "messages": "1.x",
